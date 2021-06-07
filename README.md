@@ -1,4 +1,4 @@
-# Pratice my_card
+# Practice my_card
 
 - mainAxisAlignment
 - CircleAvatar
